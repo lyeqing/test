@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+// Yeqing Liu (Louis)
 public class App {
 	public double calculateProductResult(double[] myNumericInput) throws ArrayTooShortException {
 		if (myNumericInput.length < 3) {
